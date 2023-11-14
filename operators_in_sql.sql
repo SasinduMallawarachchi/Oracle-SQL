@@ -12,6 +12,7 @@ SELECT *
 FROM employee
 WHERE last_name IN ('Foster','Elliott','Mitchell','Perry','Lawson');
 
+
 --Between and Not Between
 SELECT *
 FROM employee
