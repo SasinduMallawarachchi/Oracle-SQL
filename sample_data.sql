@@ -1,7 +1,6 @@
 /*
 Sample data for the Introduction to Oracle SQL course
 */
-
 /*
 DROP TABLE customer_order;
 DROP TABLE customer;
