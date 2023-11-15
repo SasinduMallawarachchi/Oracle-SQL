@@ -9,6 +9,7 @@ DROP TABLE employee;
 DROP TABLE department;
 */
 
+
 CREATE TABLE department (
   department_id NUMBER(5),
   department_name VARCHAR2(100),
