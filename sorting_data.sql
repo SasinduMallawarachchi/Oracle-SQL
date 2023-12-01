@@ -8,7 +8,6 @@ SELECT *
 FROM employee
 ORDER BY salary DESC
 
-    
 --Order by multiple
 SELECT *
 FROM employee
