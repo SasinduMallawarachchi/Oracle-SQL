@@ -15,7 +15,6 @@ CREATE TABLE department (
   CONSTRAINT pk_dept PRIMARY KEY (department_id)
 );
 
-
 CREATE TABLE employee (
   employee_id NUMBER(5),
   first_name VARCHAR2(100),
