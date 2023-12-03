@@ -56,7 +56,6 @@ CREATE TABLE customer_order (
   CONSTRAINT fk_order_prod FOREIGN KEY (product_id) REFERENCES product(product_id)
 );
 
-
 /*
 Sample data
 */
