@@ -72,7 +72,6 @@ INSERT INTO department (department_id, department_name) VALUES (8, 'Legal');
 INSERT INTO department (department_id, department_name) VALUES (9, 'Maintenance');
 
 
-
 --Employee
 INSERT INTO employee (employee_id, first_name, last_name, salary, department_id, manager_id, hire_date) VALUES (1, 'Michelle', 'Foster', 48000, 8, 162, TO_DATE('27-AUG-2011','DD-MON-YYYY', 'NLS_DATE_LANGUAGE = american'));
 INSERT INTO employee (employee_id, first_name, last_name, salary, department_id, manager_id, hire_date) VALUES (2, 'Cheryl', 'Turner', 79000, 3, 99, TO_DATE('2-JAN-2012','DD-MON-YYYY', 'NLS_DATE_LANGUAGE = american'));
