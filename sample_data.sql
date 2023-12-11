@@ -75,7 +75,7 @@ INSERT INTO department (department_id, department_name) VALUES (9, 'Maintenance'
 --Employee
 INSERT INTO employee (employee_id, first_name, last_name, salary, department_id, manager_id, hire_date) VALUES (1, 'Michelle', 'Foster', 48000, 8, 162, TO_DATE('27-AUG-2011','DD-MON-YYYY', 'NLS_DATE_LANGUAGE = american'));
 INSERT INTO employee (employee_id, first_name, last_name, salary, department_id, manager_id, hire_date) VALUES (2, 'Cheryl', 'Turner', 79000, 3, 99, TO_DATE('2-JAN-2012','DD-MON-YYYY', 'NLS_DATE_LANGUAGE = american'));
-INSERT INTO employee (employee_id, first_name, last_name, salary, department_id, manager_id, hire_date) VALUES (33, 'Carolyn', 'Hudson', 47000, 7, 199, TO_DATE('4-DEC-2016','DD-MON-YYYY', 'NLS_DATE_LANGUAGE = american'));
+INSERT INTO employee (employee_id, first_name, last_name, salary, department_id, manager_id, hire_date) VALUES (3, 'Carolyn', 'Hudson', 47000, 7, 199, TO_DATE('4-DEC-2016','DD-MON-YYYY', 'NLS_DATE_LANGUAGE = american'));
 INSERT INTO employee (employee_id, first_name, last_name, salary, department_id, manager_id, hire_date) VALUES (4, 'Patrick', 'Berry', 51000, 3, 159, TO_DATE('12-OCT-2011','DD-MON-YYYY', 'NLS_DATE_LANGUAGE = american'));
 INSERT INTO employee (employee_id, first_name, last_name, salary, department_id, manager_id, hire_date) VALUES (5, 'Doris', 'Powell', 117000, 1, NULL, TO_DATE('15-NOV-2011','DD-MON-YYYY', 'NLS_DATE_LANGUAGE = american'));
 INSERT INTO employee (employee_id, first_name, last_name, salary, department_id, manager_id, hire_date) VALUES (6, 'Jessica', 'Elliott', 21000, 7, 70, TO_DATE('2-JUL-2010','DD-MON-YYYY', 'NLS_DATE_LANGUAGE = american'));
