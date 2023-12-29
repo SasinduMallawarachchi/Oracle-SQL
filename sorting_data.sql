@@ -12,3 +12,4 @@ ORDER BY salary DESC
 SELECT *
 FROM employee
 ORDER BY last_name ASC, hire_date ASC, first_name;
+
